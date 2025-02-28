@@ -1,0 +1,9 @@
+Django>=4.0
+djangorestframework>=3.14.0
+Pillow>=10.0.1  # For handling image uploads
+django-filter>=23.2  # For filtering API queries
+drf-yasg>=1.21.7  # For API documentation (Swagger)
+psycopg2-binary>=2.9.6  # PostgreSQL
+mysqlclient>=2.1.1  # MySQL
+whitenoise>=6.5.0  # For serving static files in production
+gunicorn>=21.2.0  # For deployment
