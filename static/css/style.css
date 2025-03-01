@@ -1,0 +1,14 @@
+body {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+.logo {
+    width: 150px;  /* Adjust width */
+    height: auto;   /* Maintain aspect ratio */
+    border-radius: 10px; /* Optional: Rounded corners */
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2); /* Add shadow */
+    display: block;
+    margin: 20px auto; /* Center the image */
+}
